@@ -1,11 +1,8 @@
 {
-  "defaultSeverity": "warning",
   "rules": {
     "typedef": [
       true,
-      "call-signature",
-      "arrow-call-signature",
-      "member-variable-declaration"
+      "arrow-call-signature"
     ]
   }
 }
